@@ -36,3 +36,6 @@ curl etc > output.txt
 
 # Push
 curl etc >> output.txt
+
+# Headers
+curl --head http://127.0.0.1
